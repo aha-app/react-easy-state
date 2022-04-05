@@ -1,6 +1,6 @@
 {
-  "name": "@risingstack/react-easy-state",
-  "version": "0.0.0-development",
+  "name": "@aha-app/react-easy-state",
+  "version": "0.0.11-development",
   "description": "React state management with a minimal API. Made with ES6 Proxies.",
   "main": "dist/cjs.es6.js",
   "module": "dist/es.es6.js",
@@ -72,7 +72,7 @@
     "@babel/plugin-transform-async-to-generator": "^7.8.3",
     "@babel/plugin-transform-modules-commonjs": "^7.8.3",
     "@babel/polyfill": "^7.8.7",
-    "@babel/preset-env": "^7.8.7",
+    "@babel/preset-env": "^7.9.0",
     "@babel/preset-react": "^7.8.3",
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-angular": "^8.3.4",
